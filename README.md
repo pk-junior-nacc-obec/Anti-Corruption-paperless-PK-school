@@ -1,4 +1,4 @@
-# Anity Corubtion paperless PK school
+# Anti-corruption paperless PK school
 
 ระบบใบงานออนไลน์ (Paperless) รายวิชาต้านทุจริต โรงเรียนภูเขียว
 เว็บไซต์แบบ Static (HTML/CSS/JavaScript) สำหรับโฮสต์บน GitHub Pages และใช้ Supabase เป็นฐานข้อมูล
