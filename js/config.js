@@ -2,7 +2,7 @@
 //  ตั้งค่าระบบ  (แก้ไขได้ที่ไฟล์นี้ไฟล์เดียว)
 // ==============================================================
 export const CONFIG = {
-  APP_NAME: 'Anity Corubtion paperless PK school',
+  APP_NAME: 'Anti Corruption paperless PK school',
   SCHOOL_NAME: 'โรงเรียนภูเขียว',
   SUBJECT_NAME: 'รายวิชาต้านทุจริต',
 
