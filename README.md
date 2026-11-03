@@ -124,4 +124,4 @@ Admin แก้ไขเบอร์โทรหรือรีเซ็ตร�
 นำเข้ารายชื่อนักเรียน: เมนู Admin > รายชื่อนักเรียน > นำเข้า Excel / CSV โดยไฟล์มีหัวคอลัมน์ `ID`, `no`, `name`, `class`
 
 ---
-© Anity Corubtion paperless PK school ALLRIGHT RESERVED
+© Anti Corruption paperless PK school ALLRIGHT RESERVED
