@@ -14,7 +14,7 @@ export const CONFIG = {
   LOGO_DRIVE_ID: '1E3Sfzalpk46I9uOFhsnfWrBURGb8LsED',
   LOGO_LOCAL: 'assets/logo.png',
 
-  COPYRIGHT: '© Anity Corubtion paperless PK school ALLRIGHT RESERVED',
+  COPYRIGHT: '© Anti-Corruption paperless PK school ALLRIGHT RESERVED',
 };
 
 export const logoUrl = (size = 256) =>
