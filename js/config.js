@@ -4,7 +4,7 @@
 export const CONFIG = {
   APP_NAME: 'Anti Corruption paperless PK school',
   SCHOOL_NAME: 'โรงเรียนภูเขียว',
-  SUBJECT_NAME: 'รายวิชาต้านทุจริต',
+  SUBJECT_NAME: 'รายวิชาการป้องกันการทุจริต',
 
   // Supabase
   SUPABASE_URL: 'https://uscyhrdjtczrojmgnyiv.supabase.co',
